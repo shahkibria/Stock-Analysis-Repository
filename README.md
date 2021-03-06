@@ -9,14 +9,8 @@ For our analysis, we looked at two factors: Total Daily Volume and Return. Total
 
 The results of our anaysis has been summerized in two (2) tables below (refer to screenshot below):
 
-![](Resources/All_Stocks_2017_and_2018.PNG)
+![](https://github.com/shahkibria/Stock-Analysis-Repository/blob/main/Resources/All%20Stocks%202017%20and%202018.png)
 
 The Raw data file with the VBA scripts [Stock Analysis](https://github.com/shahkibria/Stock-Analysis-Repository/blob/main/VBA_Challenge.xlsm.zip) have also been included for your benefit
 
-The edits to the VBA code that we performed helped to make the VBA script efficient and reduce run times. The original run times for the VBA script is show below:
-
-![](Resources/Code Run_Times_before_Edit.PNG) 
-
-From the results
-
-
+The edits to the VBA code that we performed helped to make the VBA script efficient and reduce run times. The original run times for the VBA script is show below
